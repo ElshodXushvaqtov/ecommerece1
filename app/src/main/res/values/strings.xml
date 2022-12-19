@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Cardview1</string>
     <string name="monstera_adansonii_nmonstera_family">Monstera Adansonii\n<i><b>Monstera family</b></i></string>
+    <string name="view_3_items_400">View 3 items                              400</string>
 </resources>
