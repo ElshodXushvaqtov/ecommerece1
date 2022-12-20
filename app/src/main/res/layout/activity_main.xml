@@ -261,15 +261,6 @@
             android:textStyle="bold" />
 
         <ImageView
-            android:id="@+id/imageView12"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="-120dp"
-            android:layout_marginTop="50dp"
-            android:layout_marginEnd="30dp"
-            app:srcCompat="@drawable/belgi" />
-
-        <ImageView
             android:id="@+id/imageView10"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
@@ -366,15 +357,6 @@
             android:textColor="#021140"
             android:textSize="15sp"
             android:textStyle="bold" />
-
-        <ImageView
-            android:id="@+id/imageView22"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="-120dp"
-            android:layout_marginTop="50dp"
-            android:layout_marginEnd="30dp"
-            app:srcCompat="@drawable/belgi" />
 
         <ImageView
             android:id="@+id/imageView21"

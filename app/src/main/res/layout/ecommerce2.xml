@@ -137,9 +137,9 @@
         <ImageView
             android:id="@+id/imageView27"
             android:layout_width="369dp"
-            android:layout_height="435dp"
-            android:layout_marginStart="55dp"
-            android:layout_marginTop="80dp"
+            android:layout_height="400dp"
+            android:layout_marginStart="65dp"
+            android:layout_marginTop="68dp"
             app:srcCompat="@drawable/gulecommerce" />
     </androidx.cardview.widget.CardView>
 
